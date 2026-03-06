@@ -1,5 +1,41 @@
+*{
+	/*margin:0px;
+	padding: 0px;*/
+	box-sizing:border-box;
+}
+.inter-medium {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.inter-semibold {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.inter-bold {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
 h1{
 	color:blue;
 	text-align: center;
+<<<<<<< HEAD
 	font-size:14px;
+=======
+}
+h2{
+	color:red;
+	text-align: center;
+>>>>>>> 3ff025a5d7f414435bf14aeffc7a8b0564bd34f2
 }
